@@ -9,6 +9,13 @@ export default (
   #### Markdown text, inline
   ##### Sub-heading
   * ~~Robo-Advisor is a robot~~
+  * ~~Robo-Advisor is a robot~~
+  * ~~Robo-Advisor is a robot~~
+  * ~~Robo-Advisor is a robot~~
+  * ~~Robo-Advisor is a robot~~
+  * ~~Robo-Advisor is a robot~~
+  * ~~Robo-Advisor is a robot~~
+  * ~~Robo-Advisor is a robot~~
 
            `}
     </Markdown>

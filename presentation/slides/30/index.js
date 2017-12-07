@@ -1,11 +1,8 @@
 import React from "react";
-import { BlockQuote, Cite, Quote, Slide } from "spectacle";
+import { BlockQuote, Cite, Quote, Slide, Heading, Image } from "spectacle";
 
 export default (
     <Slide transition={["fade"]} bgColor="secondary" textColor="primary">
-        <BlockQuote>
-        <Quote>If I have to offer Robo-advisor for free, I will.</Quote>
-        <Cite>Jamie Dymond</Cite>
-        </BlockQuote>
+      <Heading size={4} textColor="primary" caps>What can we conclude from all this? </Heading>
     </Slide>
 );

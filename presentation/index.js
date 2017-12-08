@@ -72,6 +72,11 @@ const slidesImports = [
   import("./slides/31"),
   import("./slides/32"),
   import("./slides/33"),
+  import("./slides/34"),
+  import("./slides/35"),
+  import("./slides/36"),
+  import("./slides/37"),
+  import("./slides/38")
 ]
 
   export default class Presentation extends React.Component {
